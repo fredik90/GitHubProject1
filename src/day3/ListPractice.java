@@ -11,5 +11,6 @@ public class ListPractice {
         String word ="";
         boolean r1 =true;
 
+
     }
 }
