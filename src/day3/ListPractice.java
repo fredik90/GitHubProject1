@@ -9,5 +9,7 @@ public class ListPractice {
         List <String> lst = new  ArrayList <>();
 
         String word ="";
+        boolean r1 =true;
+
     }
 }
